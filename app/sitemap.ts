@@ -2,7 +2,7 @@
 import type { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = 'https://www.your-domain.com'; // ganti
+  const base = 'rahmalandingpage.vercel.app'; // ganti
   return [
     { url: `${base}/`, lastModified: new Date(), changeFrequency: 'weekly', priority: 1 },
     { url: `${base}/katalog`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
