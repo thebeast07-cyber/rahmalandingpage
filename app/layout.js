@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: {
-    default: "Rahma Seserahan",
-    template: "%s | Rahma Seserahan",
+    default: "Rahma Seserahan Demak – Sewa & Custom Hantaran Pernikahan",
+    template: "%s | Rahma Seserahan Demak – Sewa & Custom Hantaran Pernikahan",
   },
   description: "Seserahan curated & custom—elegan, rapi, dan estetik.",
 };
